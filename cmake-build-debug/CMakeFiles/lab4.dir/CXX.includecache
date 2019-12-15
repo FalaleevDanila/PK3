@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/New_Folder/Tsisa/lab4/includes/display.h
+
+D:/New_Folder/Tsisa/lab4/includes/functions.h
+cmath
+-
+point.h
+D:/New_Folder/Tsisa/lab4/includes/point.h
+
+D:/New_Folder/Tsisa/lab4/includes/individual.h
+point.h
+D:/New_Folder/Tsisa/lab4/includes/point.h
+
+D:/New_Folder/Tsisa/lab4/includes/point.h
+
+D:/New_Folder/Tsisa/lab4/main.cpp
+iostream
+-
+random
+-
+includes/display.h
+D:/New_Folder/Tsisa/lab4/includes/display.h
+includes/functions.h
+D:/New_Folder/Tsisa/lab4/includes/functions.h
+includes/individual.h
+D:/New_Folder/Tsisa/lab4/includes/individual.h
+
